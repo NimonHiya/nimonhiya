@@ -8,7 +8,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://shorturl.at/mgqA6" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="juan-farrel" height="40" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"  height="40" width="40" />
     </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
