@@ -7,7 +7,7 @@
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="nimonhiya" height="40" width="40" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/juan-farrel-88b66a236/" target="blank">
+    <a href="https://shorturl.at/mgqA6" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="juan-farrel" height="40" width="40" />
     </a>
 </p>
