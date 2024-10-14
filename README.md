@@ -6,10 +6,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://instagram.com/nimonhiya" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimonhiya" height="30" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="nimonhiya" height="30" width="30" />
     </a>
     <a href="https://www.linkedin.com/in/juan-farrel-88b66a236/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="juan-farrel" height="30" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="juan-farrel" height="30" width="30" />
     </a>
 </p>
 
