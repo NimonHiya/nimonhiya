@@ -37,8 +37,6 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     </a>
-    <br><br>
-
     <!-- Cybersecurity & Pentesting Tools -->
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
@@ -50,9 +48,12 @@
         <img src="https://www.metasploit.com/includes/images/favicon.ico" alt="Metasploit" width="50" height="50"/>
     </a>
     <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-        <span style="font-size: 40px;">🕷️</span> Burp Suite
+        <img src="https://portswigger.net/burp/images/favicon.ico" alt="Burp Suite" width="50" height="50"/>
     </a>
     <a href="https://nmap.org/" target="_blank" rel="noreferrer">
         <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="50" height="50"/>
     </a>
+    <br><br>
+
+    
 </p>
