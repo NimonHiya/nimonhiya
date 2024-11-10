@@ -56,3 +56,12 @@
     </a>
 </p>
 
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=NimonHiya&show_icons=true&theme=radical" alt="NimonHiya's GitHub Stats"/>
+</p>
+
+<h3 align="left">💻 Most Used Languages:</h3>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimonHiya&layout=compact&theme=radical" alt="NimonHiya's Top Languages"/>
+</p>
