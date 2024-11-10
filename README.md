@@ -5,17 +5,6 @@
     🌱 I’m currently diving into <strong>Cybersecurity and Programming</strong>, aiming to become skilled in both fields.
 </p>
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-    <a href="https://instagram.com/nimonhiya" target="blank" style="margin-right: 10px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimonhiya" height="40" width="40" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/juan-farrel-88b66a236/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-farrel" height="40" width="40" />
-    </a>
-</p>
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
     <!-- Web Development Languages -->
@@ -54,8 +43,26 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
     </a>
+</p>
 
-    
-    
-    
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+    <a href="https://instagram.com/nimonhiya" target="blank" style="margin-right: 10px;">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimonhiya" height="40" width="40" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/juan-farrel-88b66a236/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-farrel" height="40" width="40" />
+    </a>
+</p>
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NimonHiya&show_icons=true&locale=en" alt="NimonHiya" />
+</p>
+<p align="left">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NimonHiya&" alt="NimonHiya" />
+</p>
+<p align="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NimonHiya&layout=compact&locale=en" alt="NimonHiya" />
 </p>
