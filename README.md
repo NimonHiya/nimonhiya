@@ -57,12 +57,12 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
+<p >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=NimonHiya&show_icons=true&locale=en" alt="NimonHiya" />
 </p>
-<p align="left">
+<p >
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NimonHiya&" alt="NimonHiya" />
 </p>
-<p align="left">
+<p >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NimonHiya&layout=compact&locale=en" alt="NimonHiya" />
 </p>
