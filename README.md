@@ -1,7 +1,7 @@
 <h1 align="center">ようこそ！</h1>
 <p align="center">
-  <img src="https://id.pinterest.com/pin/746542075721852278/" height="200" alt="welcome mascot">
-</p>
+  //<img src="https://id.pinterest.com/pin/746542075721852278/" height="200" alt="welcome mascot">
+</p>//
 
 <p align="center">
   Hi, my name is Juan Farrel! I'm passionate about cybersecurity and music.<br>
