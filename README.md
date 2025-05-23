@@ -1,6 +1,6 @@
 <h1 align="center">ようこそ！</h1>
 <p align="center">
-  <img src="https://i.imgur.com/lY0ZKSn.png" height="200" alt="welcome mascot">
+  <img src="https://id.pinterest.com/pin/746542075721852278/" height="200" alt="welcome mascot">
 </p>
 
 <p align="center">
