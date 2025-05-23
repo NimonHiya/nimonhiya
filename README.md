@@ -1,29 +1,30 @@
-<h1 align="center">Hi 👋, I'm NimonHiya</h1>
-<h3 align="center">A Passionate Student Exploring Cybersecurity and Programming</h3>
+<h1 align="center">ようこそ！</h1>
+<p align="center">
+  <img src="https://i.imgur.com/lY0ZKSn.png" height="200" alt="welcome mascot">
+</p>
 
 <p align="center">
-    🌱 I’m currently diving into <strong>Cybersecurity and Programming</strong>, aiming to become skilled in both fields.
+  Hi I'm NimonHiya, a Cyber Security Student from Indonesia.<br>
+  I'm on my journey to explore what the Cyber Security world has to offer, also Blockchain world.<br>
+  Learning something new every day is a valuable and exciting opportunity that I welcome with open arms!
 </p>
 
-
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-    <a href="https://instagram.com/nimonhiya" target="blank" style="margin-right: 10px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimonhiya" height="40" width="40" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/juan-farrel-88b66a236/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-farrel" height="40" width="40" />
-    </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="ethereum" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=NimonHiya&show_icons=true&theme=radical" alt="NimonHiya's GitHub Stats"/>
-</p>
-
-<h3 align="left">💻 Most Used Languages:</h3>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimonHiya&layout=compact&theme=radical" alt="NimonHiya's Top Languages"/>
+<p align="center">
+  <a href="https://instagram.com/nimonhiya" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/juan-farrel-88b66a236/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
