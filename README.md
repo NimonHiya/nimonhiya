@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="gambar.png" alt="My Logo" width="60" height="60" style="vertical-align: middle; margin-right: 10px;">
+  <img src="gambar.png" alt="My Logo" width="120" height="120" style="vertical-align: middle; margin-right: 10px;">
   ようこそ！
 </h1>
 
