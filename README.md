@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Hi, my name is Juan Farrel! I'm passionate about cybersecurity and Music.<br>
+  Hi, my name is Juan Farrel! I'm passionate about cybersecurity and Programming.<br>
   I love exploring new technologies like Arduino, programming, and more.<br>
   I'm always eager to learn and grow in different fields. Hope you like it!
 </p>
