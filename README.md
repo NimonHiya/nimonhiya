@@ -1,7 +1,7 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <h1 style="margin: 0;">ようこそ！</h1>
-  <img src="gambar.png" alt="My Logo" width="60" height="60" style="vertical-align: middle;">
-</div>
+<h1 align="center">
+  <img src="gambar.png" alt="My Logo" width="40" height="40" style="vertical-align: middle; margin-right: 10px;">
+  ようこそ！
+</h1>
 
 <p align="center">
   Hi, my name is Juan Farrel! I'm passionate about cybersecurity and Music.<br>
