@@ -1,6 +1,7 @@
-<h1 align="center">ようこそ！</h1>
-<p align="center">
-  
+<h1 align="center">
+  <img src="gambar.png" alt="My Logo" width="40" height="40" style="vertical-align: middle; margin-right: 10px;">
+  ようこそ！
+</h1>
 
 <p align="center">
   Hi, my name is Juan Farrel! I'm passionate about cybersecurity and Music.<br>
