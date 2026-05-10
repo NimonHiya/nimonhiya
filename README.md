@@ -1,7 +1,15 @@
 <div align="center">
-  <img src="gambar.png" alt="My Logo" width="120" height="120">
-  <h1>ようこそ!</h1>
-  <p><strong>DevSecOps Enthusiast </strong></p>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="gambar.png" alt="My Logo" width="120" height="120">
+      </td>
+      <td align="left">
+        <h1>ようこそ!</h1>
+        <p><strong>DevSecOps Enthusiast</strong></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
