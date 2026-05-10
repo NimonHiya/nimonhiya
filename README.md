@@ -4,7 +4,7 @@
     <div align="left" style="display: inline-block; vertical-align: middle;">
       <h1 style="border: none; margin: 0; padding: 0; display: inline-block;">ようこそ!</h1>
       <br>
-      <p style="margin: 0; padding: 0; display: inline-block;"><strong>DevSecOps Enthusiast</strong></p>
+      <strong>DevSecOps Enthusiast</strong>
     </div>
   </div>
   <br clear="left" />
