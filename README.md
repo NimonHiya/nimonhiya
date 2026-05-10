@@ -9,7 +9,7 @@
   I'm always eager to learn and grow in different fields. Hope you like it!
 </p>
 
-<p>
+<p align="center">
   <a href="https://instagram.com/nimonhiya" target="_blank">Instagram</a> |
   <a href="https://www.linkedin.com/in/juan-farrel-88b66a236/" target="_blank">LinkedIn</a>
 </p>
