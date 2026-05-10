@@ -1,7 +1,7 @@
 <div align="center">
   <img src="gambar.png" alt="My Logo" width="120" height="120">
   <h1>ようこそ! (Welcome!)</h1>
-  <p><strong>DevSecOps Enthusiast | Security Analyze </strong></p>
+  <p><strong>DevSecOps Enthusiast </strong></p>
 </div>
 
 ---
@@ -19,21 +19,21 @@ Hi, I'm **Juan Farrel**, a passionate explorer of the digital world. I specializ
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux,ubuntu" width="40" height="40" alt="Linux" />
-      <br />OS
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu" width="80" alt="Linux" />
+      <br /><strong>OS</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" width="40" height="40" alt="DevOps" />
-      <br />DevOps
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" width="120" alt="DevOps" />
+      <br /><strong>DevOps</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py,js,go" width="40" height="40" alt="Languages" />
-      <br />Languages
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=py,js,go" width="120" alt="Languages" />
+      <br /><strong>Languages</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" width="40" height="40" alt="IOT" />
-      <br />IoT
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" width="80" alt="IOT" />
+      <br /><strong>IoT</strong>
     </td>
   </tr>
 </table>
