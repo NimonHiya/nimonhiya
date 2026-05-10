@@ -1,6 +1,6 @@
 <div align="center">
   <img src="gambar.png" alt="My Logo" width="120" height="120">
-  <h1>ようこそ! (Welcome!)</h1>
+  <h1>ようこそ!</h1>
   <p><strong>DevSecOps Enthusiast </strong></p>
 </div>
 
