@@ -2,11 +2,11 @@
   <table>
     <tr>
       <td align="center">
-        <img src="gambar.png" alt="My Logo" width="120" height="120">
+        <img src="gambar.png" alt="My Logo" width="120" height="120" style="display: block;">
       </td>
-      <td align="left">
-        <h1>ようこそ!</h1>
-        <p><strong>DevSecOps Enthusiast</strong></p>
+      <td align="left" style="vertical-align: middle;">
+        <h1 style="border: none; margin: 0; padding: 0;">ようこそ!</h1>
+        <p style="margin: 0; padding: 0;"><strong>DevSecOps Enthusiast</strong></p>
       </td>
     </tr>
   </table>
