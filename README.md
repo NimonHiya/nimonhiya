@@ -13,7 +13,6 @@
   <a href="https://instagram.com/nimonhiya" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/juan-farrel-88b66a236/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
