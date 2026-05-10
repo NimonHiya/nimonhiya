@@ -1,10 +1,10 @@
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr style="border: none;">
+      <td align="center" style="border: none;">
         <img src="gambar.png" alt="My Logo" width="120" height="120" style="display: block;">
       </td>
-      <td align="left" style="vertical-align: middle;">
+      <td align="left" style="vertical-align: middle; border: none; padding-left: 20px;">
         <h1 style="border: none; margin: 0; padding: 0;">ようこそ!</h1>
         <p style="margin: 0; padding: 0;"><strong>DevSecOps Enthusiast</strong></p>
       </td>
