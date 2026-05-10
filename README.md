@@ -1,15 +1,13 @@
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr style="border: none;">
-      <td align="center" style="border: none;">
-        <img src="gambar.png" alt="My Logo" width="120" height="120" style="display: block;">
-      </td>
-      <td align="left" style="vertical-align: middle; border: none; padding-left: 20px;">
-        <h1 style="border: none; margin: 0; padding: 0;">ようこそ!</h1>
-        <p style="margin: 0; padding: 0;"><strong>DevSecOps Enthusiast</strong></p>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img src="gambar.png" alt="My Logo" width="120" height="120" align="left" style="border: none; margin-right: 20px;">
+    <div align="left" style="display: inline-block; vertical-align: middle;">
+      <h1 style="border: none; margin: 0; padding: 0; display: inline-block;">ようこそ!</h1>
+      <br>
+      <p style="margin: 0; padding: 0; display: inline-block;"><strong>DevSecOps Enthusiast</strong></p>
+    </div>
+  </div>
+  <br clear="left" />
 </div>
 
 ---
